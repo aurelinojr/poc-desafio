@@ -21,6 +21,9 @@ fluxocaixa
 
 # URI para chamada da api
 
+  Usuário: admin
+  Senha: admin
+  
   Inserir lançamentos no caixa (post)
   
   http://localhost:8080/api/v1/fluxocaixa/insert_caixa
